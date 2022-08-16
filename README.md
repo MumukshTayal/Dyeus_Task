@@ -22,3 +22,6 @@ Contract Address (Rinkeby Testnet): 0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84
 ### Out & Reset
 ![three](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20223224.jpg)
 - As the ```isOut``` becomes true, the ```runIncrement``` button would stop affecting the ```score``` until you click ```reset``` button to reset the game.
+
+## Run Transactions
+- Open the [scenario.json](https://github.com/MumukshTayal/Dyeus_Task/blob/main/scenario.json) file in Remix IDE and then open Deploy & Run Transactions section while keeping the [scenario.json](https://github.com/MumukshTayal/Dyeus_Task/blob/main/scenario.json) file tab open. In the Transactions Recorded section, press Run.
