@@ -16,7 +16,7 @@ Contract Address (Rinkeby Testnet): 0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84
 
 - Once you click ```runIncrement``` and then check ```score```, it has changed, however, ```isOut``` remains false.
 - You can repeat this process until batsman gets out.
-![two]()
+![two](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222514.jpg)
 
 
 - As the ```isOut``` becomes true, the ```runIncrement``` button would stop affecting the ```score``` until you click ```reset``` button to reset the game.
