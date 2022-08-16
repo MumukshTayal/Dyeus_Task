@@ -10,14 +10,15 @@ Contract Address (Rinkeby Testnet): 0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84
 - Once the ```isOut``` variable becomes true, the ```runIncrement``` button won't work until you reset the game using ```reset``` button.
 
 ## Screenshots
-- Initially, the ```isOut``` is set to false and ```score``` is set to 0.
+### Initially
 ![one](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222241.jpg)
+- Initially, the ```isOut``` is set to false and ```score``` is set to 0.
 
-
+### Run Incrementation
+![two](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222514.jpg)
 - Once you click ```runIncrement``` and then check ```score```, it has changed, however, ```isOut``` remains false.
 - You can repeat this process until batsman gets out.
-![two](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222514.jpg)
 
-
-- As the ```isOut``` becomes true, the ```runIncrement``` button would stop affecting the ```score``` until you click ```reset``` button to reset the game.
+### Out & Reset
 ![three](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20223224.jpg)
+- As the ```isOut``` becomes true, the ```runIncrement``` button would stop affecting the ```score``` until you click ```reset``` button to reset the game.
