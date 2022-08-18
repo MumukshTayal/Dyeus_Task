@@ -11,17 +11,21 @@ Contract Address (Rinkeby Testnet): 0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84 (
 
 ## Screenshots
 ### Initially
-![one](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222241.jpg)
+![one](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshots/Initially.jpg)
 - Initially, the ```isOut``` is set to false and ```score``` is set to 0.
 
 ### Run Incrementation
-![two](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20222514.jpg)
+![two](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshots/Run_Incrementation.jpg)
 - Once you click ```runIncrement``` and then check ```score```, it has changed, however, ```isOut``` remains false.
 - You can repeat this process until batsman gets out.
 
 ### Out & Reset
-![three](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshot%202022-08-16%20223224.jpg)
+![three](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshots/Out_Reset.jpg)
 - As the ```isOut``` becomes true, the ```runIncrement``` button would stop affecting the ```score``` until you click ```reset``` button to reset the game.
+
+### EtherScan Transactions
+![four](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshots/Etherscan_Txns.jpg)
+- The deployed smart contract and its details can be viewed [here](https://rinkeby.etherscan.io/address/0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84).
 
 ## Run Transactions
 - Open the [scenario.json](https://github.com/MumukshTayal/Dyeus_Task/blob/main/scenario.json) file in Remix IDE and then open Deploy & Run Transactions section while keeping the [scenario.json](https://github.com/MumukshTayal/Dyeus_Task/blob/main/scenario.json) file tab open. In the Transactions Recorded section, press Run.
