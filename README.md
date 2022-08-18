@@ -9,10 +9,6 @@ Contract Address (Rinkeby Testnet): 0x5bc522d7ef9b8534ba5856be0cc9e03ab1898f84 (
 - Click on ```score``` button to check the score of the batsman (random number accumulating).
 - Once the ```isOut``` variable becomes true, the ```runIncrement``` button won't work until you reset the game using ```reset``` button.
 
-## Steps (To run Test file in Remix IDE)
-- Paste the [Cricket.test.js](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Cricket.test.js) file in the scripts folder inside File Explorer tab of Remix IDE.
-- Right click on this test file and select to Run the test.
-
 ## Screenshots
 ### Initially
 ![one](https://github.com/MumukshTayal/Dyeus_Task/blob/main/Screenshots/Initially.jpg)
